@@ -14,4 +14,4 @@
 
 # SCHEMA
 
-![arch schema](https://github.com/yosif-khaled/udagram/tree/main/docs/screenshots/arch_diagram.drawio.png)
+![arch schema](https://github.com/yosif-khaled/udagram/tree/main/docs/screenshots/arch_diagram.drawio.png?raw=true)
