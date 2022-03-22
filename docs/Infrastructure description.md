@@ -16,5 +16,5 @@
     https://github.com/yosif-khaled/udagram/tree/main/docs/screenshots/Elastic_Beanstalk.png
 
 # SCHEMA
-    - link to schema screenshot
+
     https://github.com/yosif-khaled/udagram/tree/main/docs/screenshots/arch_diagram.drawio.png
