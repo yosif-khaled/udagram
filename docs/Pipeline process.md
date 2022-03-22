@@ -1,5 +1,5 @@
 # CircleCI Pipline Process
-steps:
+  - steps:
       - Install node-version: '16.13'
       - Install aws cli
       - Install eb cli
