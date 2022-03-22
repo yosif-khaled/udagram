@@ -9,3 +9,7 @@
       - Build Back-End
       - Deploy Front-End On S3 udagram-p3
       - Deploy Back-End On ElasticBeanStalk
+
+## PIPLINE IS ALSO INCLUDED IN SCHEMA
+
+https://github.com/yosif-khaled/udagram/tree/main/docs/screenshots/arch_diagram.drawio.png
